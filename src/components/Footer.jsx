@@ -6,7 +6,7 @@ function Footer() {
           © {new Date().getFullYear()} Copyright Text
           <a
             className="grey-text text-lighten-4 right"
-            href="https://varekai-dev.github.io/react-cook/"
+            href="https://github.com/varekai-dev/react-cook"
           >
             Repo
           </a>
