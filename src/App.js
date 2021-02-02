@@ -11,7 +11,7 @@ function App() {
 		<>
 			<Header />
 			<main className="container content">
-				<Router>
+				<Router basename="/react-cook">
 					<Switch>
 						<Route exact path="/" component={Home} />
 						<Route  path="/category/:name" component={Category} />
