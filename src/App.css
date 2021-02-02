@@ -42,7 +42,9 @@ nav {
   justify-content: center;
   align-items: center;
 }
-
+.recipe td {
+  width: 50%;
+}
 img,
 iframe {
   max-width: 100%;
