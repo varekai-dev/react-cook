@@ -5,7 +5,7 @@ function CategoryList({ catalog = [] }) {
 	return (
 		<div className="list">
 			{catalog.map((el) => {
-				return <CategoryItem key={el.idCategpry} {...el} />
+				return <CategoryItem key={el.idCategory} {...el} />
 			})}
 		</div>
 	)
