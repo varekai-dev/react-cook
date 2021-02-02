@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-cook/static/css/main.d53f0636.chunk.css",
+    "main.css": "/react-cook/static/css/main.3c0309fb.chunk.css",
     "main.js": "/react-cook/static/js/main.73847abc.chunk.js",
     "main.js.map": "/react-cook/static/js/main.73847abc.chunk.js.map",
     "runtime-main.js": "/react-cook/static/js/runtime-main.adfe64db.js",
@@ -10,13 +10,13 @@
     "static/js/3.9da9067e.chunk.js": "/react-cook/static/js/3.9da9067e.chunk.js",
     "static/js/3.9da9067e.chunk.js.map": "/react-cook/static/js/3.9da9067e.chunk.js.map",
     "index.html": "/react-cook/index.html",
-    "static/css/main.d53f0636.chunk.css.map": "/react-cook/static/css/main.d53f0636.chunk.css.map",
+    "static/css/main.3c0309fb.chunk.css.map": "/react-cook/static/css/main.3c0309fb.chunk.css.map",
     "static/js/2.49694dee.chunk.js.LICENSE.txt": "/react-cook/static/js/2.49694dee.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.adfe64db.js",
     "static/js/2.49694dee.chunk.js",
-    "static/css/main.d53f0636.chunk.css",
+    "static/css/main.3c0309fb.chunk.css",
     "static/js/main.73847abc.chunk.js"
   ]
 }
