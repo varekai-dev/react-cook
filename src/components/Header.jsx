@@ -1,16 +1,16 @@
-import { Link } from "react-router-dom";
-
 function Header() {
   return (
     <nav className=" cyan darken-2">
       <div className="nav-wrapper">
-        <Link className="brand-logo" to="/">
+        <a
+          href="https://varekai-dev.github.io/react-cook/"
+          className="brand-logo"
+        >
           React Cook
-        </Link>
-
+        </a>
         <ul id="nav-mobile" className="right hide-on-med-and-down">
           <li>
-            <a href="https://github.com/varekai-dev/react-cook">Repo</a>
+            <a href="https://varekai-dev.github.io/react-cook/">Repo</a>
           </li>
         </ul>
       </div>
